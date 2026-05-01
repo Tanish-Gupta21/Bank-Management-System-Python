@@ -30,7 +30,7 @@ This Bank Management System is a Python-based console application that simulates
 # Technologies Used
 
 - Python 3
-- JSON(File Handling)
+- JSON File(File Handling)
 - OOPS(Class & Methods)
 - Random & String Modules
 - Pathlib Module
